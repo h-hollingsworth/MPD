@@ -1,0 +1,34 @@
+{
+  "packageDirectories": [
+    {
+      "path": "packages/Package1",
+      "default": true,
+      "dependencies": []
+    },
+    {
+      "path": "packages/Package2",
+      "dependencies": []
+    },
+    {
+      "path": "packages/Package3",
+      "dependencies": []
+    },
+    {
+      "path": "packages/Package4",
+      "dependencies": []
+    },
+    {
+      "path": "packages/Package5",
+      "dependencies": []
+    },
+    {
+      "path": "packages/Package6",
+      "dependencies": []
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "48.0",
+  "packageAliases": {}
+}
+
